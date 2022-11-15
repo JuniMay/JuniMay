@@ -33,11 +33,11 @@
 
 ## ⚙️ GitHub Analytics
 
-<a href="https://github.com/JuniMay">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuniMay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuniMay&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniMay&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniMay&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/JuniMay">
-    <img width=795em alt="Juni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuniMay&custom_title=Juni's%20Contribution%20Graph&theme=tokyo-night"/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width=795em alt="Juni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuniMay&bg_color=151515&color=9e9e9e&line=dadada&point=9e9e9e&area=true&hide_border=true"/>
 </a>
