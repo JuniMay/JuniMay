@@ -39,5 +39,5 @@
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=795em alt="Juni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuniMay&bg_color=151515&color=9e9e9e&line=dadada&point=9e9e9e&area=true&hide_border=true"/>
+    <img width=795em alt="Juni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuniMay&custom_title=Juni's%20Contribution%20Graph&bg_color=151515&color=9e9e9e&line=dadada&point=9e9e9e&area=true&hide_border=true"/>
 </a>
