@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-
+<!-- 
 ## ⚙️ GitHub Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,3 +41,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width=795em alt="Juni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JuniMay&custom_title=Juni's%20Contribution%20Graph&bg_color=151515&color=9e9e9e&line=dadada&point=9e9e9e&area=true&hide_border=true"/>
 </a>
+ -->
