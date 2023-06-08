@@ -34,4 +34,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
+### ⚙️ Analytics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniMay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
