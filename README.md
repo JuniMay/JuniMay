@@ -1,6 +1,6 @@
 # Hi 👋 I'm Juni!
 
-- 🔭 I am currently an undergraduate student at Nankai University, pursuing double degree of Information Security and Law.
+- 🔭 I am currently a graduate student at Carnegie Mellon University.
 
 - 🌱 I am also interested in linguistics and philosophy.
 
